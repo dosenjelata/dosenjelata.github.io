@@ -5,4 +5,4 @@ permalink: /about/
 ---
 Salam!
 
-Ini hanyalah GitHub Pages untuk merekam aktifitas tridharma seorang dosen jelata. Tetap semangat di masa pandemi!
+Ini hanyalah GitHub Pages untuk merekam aktifitas tridharma seorang dosen jelata.
